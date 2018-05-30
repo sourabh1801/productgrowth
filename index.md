@@ -1,37 +1,51 @@
-## Steps to increase product growth
+## Product to drive the growth of our user base on app by 10x in the next 3 months - 
 
-You can use the [editor on GitHub](https://github.com/sourabh1801/productgrowth/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+To increase user base on app we have to take following steps -
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Increasing User Experince of Existing users.
+# Simplyfy the onboarding and training of new users.
+# Hit the target with custom segments.
+# Listen to exisiting users
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Increasing User Experince of Existing users.
 
-```markdown
-Syntax highlighted code block
+1. Revamp Your Sign-up Screen
+2. De-scarify Your In-app Permissions.
+3. Add Controls and Transparency to Sharing Options.
+4. Gather Qualitative Data.
 
-# Header 1
-## Header 2
-### Header 3
+### Revamp Your Sign-up Screen
+# First time user experience is improtant - 
+ 
+- We have to focus on simplicity and intuitive design.
+- Apps should have overlay help screens to facilitate easy understanding of app’s features and interface.
+- Experiment with different login options like social, email or even no login at all (if possible), to make the process as fast and seamless as possible.
 
-- Bulleted
-- List
+# Create a simple and easy onboarding process for new users –
 
-1. Numbered
-2. List
+- We need to create a login before user can start using the app, so optimizing the onboarding process is an important factor.
 
-**Bold** and _Italic_ and `Code` text
+### Hit the target with custom segments
 
-[Link](url) and ![Image](src)
-```
+- Customized, rich content to our app users based on their in-app behaviors, context, time, preferences or demographics.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Mobile app audience segmentation not only improves user engagement and experience but also helps in monetize their apps with better ROI.
 
-### Jekyll Themes
+## Here are a few actionable items for the app developers to focus on-
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sourabh1801/productgrowth/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Use analytics to create dynamic, customized user segments and run relevant campaigns.
+- Filter analytics reports by segments to compare engagement and analyze ROI.
+- Track how your segments evolve over a period of time and identify high value users.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Listen to your users
+
+- The most important engagement strategy is to listen to your audience.
+- Detailed analysis & RCA of every queries raised by users.
+- Use app insight data to increase performance & user behaviour of users.
+
+## Making share easier & Incetivise exisitng user to community 
+
+- One way to do this is by sending Net Promoter Score (NPS) surveys to your audience, and determine how likely they are to recommend the app to a friend.
+- Incentivise exisiting users to share it to the community.
