@@ -3,7 +3,7 @@
 To increase user base on app we have to take following steps -
 
 # Increasing User Experince of Existing users.
-# Simplyfy the onboarding and training of new users.
+# Simplify the onboarding and training of new users.
 # Hit the target with custom segments.
 # Listen to exisiting users
 
